@@ -5,4 +5,6 @@ That is where the idea for creating an app that tracks the book selection at you
 
 I attempted at first, like many ideas, to go big. Worldwide, dive into the API listing all 100k plus locations, but once I was denied access to the API. I thought to myself, lets start small. Get an MVP out there at least. SO i start this with my local LFL, the one I drove past.
 
-SO on with it.
+## SO on with it.
+
+Started with a simple bootstrap starter page, to get somethings on the wall. Since i am not able to obtain the API data file, (probably for the better). The idea is, a user can use the link to the LFL map to obtain their LFL Charter Number. This is a unique number applied to each LFL. Back to my website, by entering in the charter number, you are taken to a page where -1) if an inventory list has already been created for that charter number, a list of books will appear with the ability edit, 2) if no database exists for that charter, you can create one and add/edit books.

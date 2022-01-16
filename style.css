@@ -1,3 +1,7 @@
+body {
+  background: black;
+}
+
 .profileImage {
   border-radius: 50%;
 }
@@ -13,7 +17,7 @@
   display: flex;
   align-content: center;
   justify-content: center;
-  color: rgb(0, 0, 0);
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
 }

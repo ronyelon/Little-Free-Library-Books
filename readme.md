@@ -8,3 +8,5 @@ I attempted at first, like many ideas, to go big. Worldwide, dive into the API l
 ## SO on with it.
 
 Started with a simple bootstrap starter page, to get somethings on the wall. Since i am not able to obtain the API data file, (probably for the better). The idea is, a user can use the link to the LFL map to obtain their LFL Charter Number. This is a unique number applied to each LFL. Back to my website, by entering in the charter number, you are taken to a page where -1) if an inventory list has already been created for that charter number, a list of books will appear with the ability edit, 2) if no database exists for that charter, you can create one and add/edit books.
+
+Been away a little bit due to illness but am back to continue this project. Went out to my local LFL and took a photo of it. In order to get a MVP starting with just 1 LFL and building out the front end then back end for books inventory. 
